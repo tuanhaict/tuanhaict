@@ -1,24 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tuan A. Hoang</h1>
-<h3 align="center">A passionate AI/Data/Software Engineer from Vietnam</h3>
-
-🚀 I have a strong foundation in **AI, Data, Distributed Systems, and Software Development**.  
-💡 Passionate about building scalable, high-performance systems and leveraging cutting-edge technologies to solve real-world problems.
-
-🎓 I have a deep interest in **AI research and Distributed Systems**, constantly exploring new advancements in the field.  
-🔍 My long-term goal is to pursue a **Ph.D.** and contribute to innovative research in AI and distributed computing.
-
-## 🔥 Areas of Expertise
-
-- **Artificial Intelligence (AI)**
-- **Data Engineering & Analytics**
-- **Distributed Systems & Cloud Computing**
-- **Software Development & System Design**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tuanha-ict" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuanha-ict" height="30" width="40" /></a>
 <a href="https://fb.com/tuanha.268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuanha.268" height="30" width="40" /></a>
 </p>
-
 ## 🛠 Tech Stack
 
 - **Languages**: Python, Java, Golang, C++, C#, SQL, Typescript, Javascript, Lua, Rego
